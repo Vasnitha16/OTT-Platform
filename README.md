@@ -7,7 +7,7 @@ This C++ project allows users to manage a collection of movies by storing movie 
 *Saving the movies to a text file.
 *Loading movies from a file.
 
-##Features
+## Features
 *Append a Movie: Users can add a new movie to the database by specifying the movie's title, genre, and duration.
 *Search for a Movie by Title: Users can search for a specific movie by its title.
 *Search for Movies by Genre: Users can search for movies of a particular genre.
